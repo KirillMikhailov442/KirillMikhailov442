@@ -1,30 +1,59 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kirill Mikhailov
-========================================================================================================================================
+![intro](/assets/intro.svg)
 
-I am Web developer
-------------------
+## Hello everyone, my name is Kirill, I work as a web developer
 
-I love creating projects and learning new things
+#### I love creating projects and learning new things
 
 * 🌍  I'm based in Perm
 * ✉️  You can contact me at [akcjdjs123456789@gmail.com](mailto:akcjdjs123456789@gmail.com)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on with a team of enthusiasts
 
-### Skills
+### Languages and Tools
 
+![react](https://img.shields.io/badge/-react-4B6BFB?style=for-the-badge&logo=react&logoColor=white)
+![js](https://img.shields.io/badge/-javascrpit-4B6BFB?style=for-the-badge&logo=javascript&logoColor=white)
+![html](https://img.shields.io/badge/-html-4B6BFB?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/-css-4B6BFB?style=for-the-badge&logo=css3&logoColor=white)
+![css](https://img.shields.io/badge/-git-4B6BFB?style=for-the-badge&logo=git&logoColor=white)
+![ts](https://img.shields.io/badge/-typescript-4B6BFB?style=for-the-badge&logo=typescript&logoColor=white)
+![nextjs](https://img.shields.io/badge/-nextjs-4B6BFB?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![sass](https://img.shields.io/badge/-scss-4B6BFB?style=for-the-badge&logo=sass&logoColor=white)
+![python](https://img.shields.io/badge/-python-4B6BFB?style=for-the-badge&logo=python&logoColor=white)
+![nodejs](https://img.shields.io/badge/-nodejs-4B6BFB?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![postcss](https://img.shields.io/badge/-postcss-4B6BFB?style=for-the-badge&logo=postcss&logoColor=white)
+![env](https://img.shields.io/badge/-env-4B6BFB?style=for-the-badge&logo=dotenv&logoColor=white)
+![bash](https://img.shields.io/badge/-bash-4B6BFB?style=for-the-badge&logo=gnubash&logoColor=white)
+![jquery](https://img.shields.io/badge/-jquery-4B6BFB?style=for-the-badge&logo=jquery&logoColor=white)
+![tailwind](https://img.shields.io/badge/-tailwindcss-4B6BFB?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-4B6BFB?style=for-the-badge&logo=npm&logoColor=white)
+![bash](https://img.shields.io/badge/-chakraui-4B6BFB?style=for-the-badge&logo=chakraui&logoColor=white)
+![bash](https://img.shields.io/badge/-bootstrap-4B6BFB?style=for-the-badge&logo=bootstrap&logoColor=white)
+![bash](https://img.shields.io/badge/-redux-4B6BFB?style=for-the-badge&logo=redux&logoColor=white)
+![bash](https://img.shields.io/badge/-webpack-4B6BFB?style=for-the-badge&logo=webpack&logoColor=white)
+![bash](https://img.shields.io/badge/-babel-4B6BFB?style=for-the-badge&logo=babel&logoColor=white)
+![bash](https://img.shields.io/badge/-vite-4B6BFB?style=for-the-badge&logo=vite&logoColor=white)
+![bash](https://img.shields.io/badge/-express-4B6BFB?style=for-the-badge&logo=express&logoColor=white)
+![bash](https://img.shields.io/badge/-django-4B6BFB?style=for-the-badge&logo=django&logoColor=white)
+![bash](https://img.shields.io/badge/-mongodb-4B6BFB?style=for-the-badge&logo=mongodb&logoColor=white)
+![bash](https://img.shields.io/badge/-postgresql-4B6BFB?style=for-the-badge&logo=postgresql&logoColor=white)
+![bash](https://img.shields.io/badge/-mysql-4B6BFB?style=for-the-badge&logo=mysql&logoColor=white)
+![bash](https://img.shields.io/badge/-sqlite-4B6BFB?style=for-the-badge&logo=sqlite&logoColor=white)
+![bash](https://img.shields.io/badge/-firebase-4B6BFB?style=for-the-badge&logo=firebase&logoColor=white)
+![bash](https://img.shields.io/badge/-firgma-4B6BFB?style=for-the-badge&logo=figma&logoColor=white)
+![bash](https://img.shields.io/badge/-blender-4B6BFB?style=for-the-badge&logo=blender&logoColor=white)
+![bash](https://img.shields.io/badge/-java-4B6BFB?style=for-the-badge&logo=java&logoColor=white)
+![bash](https://img.shields.io/badge/-docker-4B6BFB?style=for-the-badge&logo=docker&logoColor=white)
+![bash](https://img.shields.io/badge/-linux-4B6BFB?style=for-the-badge&logo=linux&logoColor=white)
+![bash](https://img.shields.io/badge/-mint-4B6BFB?style=for-the-badge&logo=linuxmint&logoColor=white)
+![bash](https://img.shields.io/badge/-github-4B6BFB?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+### Follow Me
 
+[![bash](https://img.shields.io/badge/-vkontakte-4B6BFB?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kirillmikhalov)
+[![bash](https://img.shields.io/badge/-telegram-4B6BFB?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cripperMicher)
+[![bash](https://img.shields.io/badge/-gmail-4B6BFB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akcjdjs123456789@gmail.com)
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/KirillMikhailov442" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
+### My statistic
 
 <a href="https://github.com/KirillMikhailov442" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillMikhailov442&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
