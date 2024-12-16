@@ -12,6 +12,7 @@
 ### Languages and Tools
 
 ![react](https://img.shields.io/badge/-react-4B6BFB?style=for-the-badge&logo=react&logoColor=white)
+![react](https://img.shields.io/badge/-reactnative-4B6BFB?style=for-the-badge&logo=react&logoColor=white)
 ![js](https://img.shields.io/badge/-javascrpit-4B6BFB?style=for-the-badge&logo=javascript&logoColor=white)
 ![html](https://img.shields.io/badge/-html-4B6BFB?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/-css-4B6BFB?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,10 +44,12 @@
 ![bash](https://img.shields.io/badge/-firgma-4B6BFB?style=for-the-badge&logo=figma&logoColor=white)
 ![bash](https://img.shields.io/badge/-blender-4B6BFB?style=for-the-badge&logo=blender&logoColor=white)
 ![bash](https://img.shields.io/badge/-java-4B6BFB?style=for-the-badge&logo=java&logoColor=white)
+![bash](https://img.shields.io/badge/-spring-4B6BFB?style=for-the-badge&logo=spring&logoColor=white)
 ![bash](https://img.shields.io/badge/-docker-4B6BFB?style=for-the-badge&logo=docker&logoColor=white)
 ![bash](https://img.shields.io/badge/-linux-4B6BFB?style=for-the-badge&logo=linux&logoColor=white)
 ![bash](https://img.shields.io/badge/-mint-4B6BFB?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![bash](https://img.shields.io/badge/-github-4B6BFB?style=for-the-badge&logo=github&logoColor=white)
+![bash](https://img.shields.io/badge/-vim-4B6BFB?style=for-the-badge&logo=vim&logoColor=white)
 
 ### Follow Me
 
