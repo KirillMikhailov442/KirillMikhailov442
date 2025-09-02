@@ -1,5 +1,3 @@
-![intro](/assets/intro.svg)
-
 ## Hello everyone, my name is Kirill, I work as a web developer
 
 #### I love creating projects and learning new things
