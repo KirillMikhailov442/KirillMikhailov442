@@ -9,40 +9,39 @@
 
 ### Languages and Tools
 
-#### Frontend
-![react](https://img.shields.io/badge/-react-4B6BFB?style=for-the-badge&logo=react&logoColor=white)
-![react](https://img.shields.io/badge/-reactnative-4B6BFB?style=for-the-badge&logo=react&logoColor=white)
-![js](https://img.shields.io/badge/-javascrpit-4B6BFB?style=for-the-badge&logo=javascript&logoColor=white)
-![ts](https://img.shields.io/badge/-typescript-4B6BFB?style=for-the-badge&logo=typescript&logoColor=white)
-![nextjs](https://img.shields.io/badge/-nextjs-4B6BFB?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![html](https://img.shields.io/badge/-html-4B6BFB?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/-css-4B6BFB?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/-scss-4B6BFB?style=for-the-badge&logo=sass&logoColor=white)
-![tailwind](https://img.shields.io/badge/-tailwindcss-4B6BFB?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-4B6BFB?style=for-the-badge&logo=npm&logoColor=white)
-![bash](https://img.shields.io/badge/-redux-4B6BFB?style=for-the-badge&logo=redux&logoColor=white)
-![bash](https://img.shields.io/badge/-vite-4B6BFB?style=for-the-badge&logo=vite&logoColor=white)
+#### ⚡ Frontend
+![react](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react&logoColor=black)
+![react](https://img.shields.io/badge/-reactnative-white?style=for-the-badge&logo=react&logoColor=black)
+![js](https://img.shields.io/badge/-javascrpit-white?style=for-the-badge&logo=javascript&logoColor=black)
+![ts](https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=typescript&logoColor=black)
+![nextjs](https://img.shields.io/badge/-nextjs-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
+![html](https://img.shields.io/badge/-html-white?style=for-the-badge&logo=html5&logoColor=black)
+![css](https://img.shields.io/badge/-css-white?style=for-the-badge&logo=css3&logoColor=black)
+![sass](https://img.shields.io/badge/-scss-white?style=for-the-badge&logo=sass&logoColor=black)
+![tailwind](https://img.shields.io/badge/-tailwindcss-white?style=for-the-badge&logo=tailwindcss&logoColor=black)
+![npm](https://img.shields.io/badge/-npm-white?style=for-the-badge&logo=npm&logoColor=black)
+![bash](https://img.shields.io/badge/-redux-white?style=for-the-badge&logo=redux&logoColor=black)
+![bash](https://img.shields.io/badge/-vite-white?style=for-the-badge&logo=vite&logoColor=black)
+![bash](https://img.shields.io/badge/-three-white?style=for-the-badge&logo=threejs&logoColor=black)
 
-#### Backend
-![nodejs](https://img.shields.io/badge/-nodejs-4B6BFB?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![bash](https://img.shields.io/badge/-express-4B6BFB?style=for-the-badge&logo=express&logoColor=white)
-![python](https://img.shields.io/badge/-python-4B6BFB?style=for-the-badge&logo=python&logoColor=white)
-![bash](https://img.shields.io/badge/-django-4B6BFB?style=for-the-badge&logo=django&logoColor=white)
-![bash](https://img.shields.io/badge/-java-4B6BFB?style=for-the-badge&logo=java&logoColor=white)
-![bash](https://img.shields.io/badge/-spring-4B6BFB?style=for-the-badge&logo=spring&logoColor=white)
-![bash](https://img.shields.io/badge/-mongodb-4B6BFB?style=for-the-badge&logo=mongodb&logoColor=white)
-![bash](https://img.shields.io/badge/-postgresql-4B6BFB?style=for-the-badge&logo=postgresql&logoColor=white)
-![bash](https://img.shields.io/badge/-mysql-4B6BFB?style=for-the-badge&logo=mysql&logoColor=white)
-![bash](https://img.shields.io/badge/-sqlite-4B6BFB?style=for-the-badge&logo=sqlite&logoColor=white)
-![bash](https://img.shields.io/badge/-firebase-4B6BFB?style=for-the-badge&logo=firebase&logoColor=white)
-![bash](https://img.shields.io/badge/-docker-4B6BFB?style=for-the-badge&logo=docker&logoColor=white)
-![bash](https://img.shields.io/badge/-linux-4B6BFB?style=for-the-badge&logo=linux&logoColor=white)
-![bash](https://img.shields.io/badge/-bash-4B6BFB?style=for-the-badge&logo=gnubash&logoColor=white)
+#### 💻 Backend
+![nodejs](https://img.shields.io/badge/-nodejs-black?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![bash](https://img.shields.io/badge/-express-black?style=for-the-badge&logo=express&logoColor=white)
+![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=white)
+![bash](https://img.shields.io/badge/-django-black?style=for-the-badge&logo=django&logoColor=white)
+![bash](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=white)
+![bash](https://img.shields.io/badge/-spring-black?style=for-the-badge&logo=spring&logoColor=white)
+![bash](https://img.shields.io/badge/-mongodb-black?style=for-the-badge&logo=mongodb&logoColor=white)
+![bash](https://img.shields.io/badge/-postgresql-black?style=for-the-badge&logo=postgresql&logoColor=white)
+![bash](https://img.shields.io/badge/-mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
+![bash](https://img.shields.io/badge/-sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white)
+![bash](https://img.shields.io/badge/-firebase-black?style=for-the-badge&logo=firebase&logoColor=white)
+![bash](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=white)
+![bash](https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![bash](https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Follow Me
-[![bash](https://img.shields.io/badge/-telegram-4B6BFB?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cripperMicher)
-[![bash](https://img.shields.io/badge/-gmail-4B6BFB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akcjdjs123456789@gmail.com)
-
-### My statistic
-
-<a href="https://github.com/KirillMikhailov442" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillMikhailov442&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 📊 My statistic
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KirillMikhailov442&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillMikhailov442&layout=compact&theme=github_dark&hide_border=true" />
+</p>
