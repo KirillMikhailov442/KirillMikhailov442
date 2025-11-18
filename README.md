@@ -36,6 +36,7 @@
 ![bash](https://img.shields.io/badge/-mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![bash](https://img.shields.io/badge/-sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white)
 ![bash](https://img.shields.io/badge/-firebase-black?style=for-the-badge&logo=firebase&logoColor=white)
+![bash](https://img.shields.io/badge/-supabase-black?style=for-the-badge&logo=firebase&logoColor=white)
 ![bash](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=white)
 ![bash](https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![bash](https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
