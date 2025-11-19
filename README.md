@@ -42,6 +42,8 @@
 ![bash](https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![bash](https://img.shields.io/badge/-strapi-black?style=for-the-badge&logo=strapi&logoColor=white)
 ![bash](https://img.shields.io/badge/-contentful-black?style=for-the-badge&logo=contentful&logoColor=white)
+![bash](https://img.shields.io/badge/-nginx-black?style=for-the-badge&logo=nginx&logoColor=white)
+![bash](https://img.shields.io/badge/-apache-black?style=for-the-badge&logo=apache&logoColor=white)
 ![bash](https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 📊 My statistic
