@@ -32,6 +32,7 @@
 ![bash](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=white)
 ![bash](https://img.shields.io/badge/-spring-black?style=for-the-badge&logo=spring&logoColor=white)
 ![bash](https://img.shields.io/badge/-mongodb-black?style=for-the-badge&logo=mongodb&logoColor=white)
+![bash](https://img.shields.io/badge/-redis-black?style=for-the-badge&logo=redis&logoColor=white)
 ![bash](https://img.shields.io/badge/-postgresql-black?style=for-the-badge&logo=postgresql&logoColor=white)
 ![bash](https://img.shields.io/badge/-mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![bash](https://img.shields.io/badge/-sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white)
