@@ -26,6 +26,7 @@
 ![bash](https://img.shields.io/badge/-zustand-white?style=for-the-badge&logo=zustand&logoColor=black)
 ![bash](https://img.shields.io/badge/-vite-white?style=for-the-badge&logo=vite&logoColor=black)
 ![bash](https://img.shields.io/badge/-three.js-white?style=for-the-badge&logo=threedotjs&logoColor=black)
+![bash](https://img.shields.io/badge/-figma-white?style=for-the-badge&logo=figma&logoColor=black)
 
 #### 💻 Backend
 ![nodejs](https://img.shields.io/badge/-nodejs-black?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -48,6 +49,12 @@
 ![bash](https://img.shields.io/badge/-nginx-black?style=for-the-badge&logo=nginx&logoColor=white)
 ![bash](https://img.shields.io/badge/-apache-black?style=for-the-badge&logo=apache&logoColor=white)
 ![bash](https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
+
+#### 🤖 Machine learning
+![numpy](https://img.shields.io/badge/-numpy-black?style=for-the-badge&logo=numpy&logoColor=white)
+![tensorflow](https://img.shields.io/badge/-tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=white)
+![keras](https://img.shields.io/badge/-keras-black?style=for-the-badge&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### 📊 My statistic
 <p align="center">
