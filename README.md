@@ -1,13 +1,13 @@
-## Hello everyone, my name is Kirill, I work as a frontend developer
+## 👋 Hello everyone, my name is Kirill, I work as a frontend developer
 
-#### I love creating projects and learning new things
+#### ❤️ I love creating projects and learning new things
 
 * 🌍  I'm based in Perm
 * ✉️  You can contact me at [akcjdjs123456789@gmail.com](mailto:akcjdjs123456789@gmail.com)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on with a team of enthusiasts
 
-### Languages and Tools
+### 🛠️ Languages and Tools
 
 #### ⚡ Frontend
 ![react](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react&logoColor=black)
