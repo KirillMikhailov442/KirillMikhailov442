@@ -48,13 +48,19 @@
 ![bash](https://img.shields.io/badge/-contentful-black?style=for-the-badge&logo=contentful&logoColor=white)
 ![bash](https://img.shields.io/badge/-nginx-black?style=for-the-badge&logo=nginx&logoColor=white)
 ![bash](https://img.shields.io/badge/-apache-black?style=for-the-badge&logo=apache&logoColor=white)
+![bash](https://img.shields.io/badge/-kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white)
+![bash](https://img.shields.io/badge/-rabbitmq-black?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![bash](https://img.shields.io/badge/-elasticsearch-black?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![bash](https://img.shields.io/badge/-grafana-black?style=for-the-badge&logo=grafana&logoColor=white)
+![bash](https://img.shields.io/badge/-logstash-black?style=for-the-badge&logo=logstash&logoColor=white)
+![bash](https://img.shields.io/badge/-kibana-black?style=for-the-badge&logo=kibana&logoColor=white)
 ![bash](https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
 
 #### 🤖 Machine learning
-![numpy](https://img.shields.io/badge/-numpy-black?style=for-the-badge&logo=numpy&logoColor=white)
-![tensorflow](https://img.shields.io/badge/-tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=white)
-![keras](https://img.shields.io/badge/-keras-black?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white)
+![numpy](https://img.shields.io/badge/-numpy-gray?style=for-the-badge&logo=numpy&logoColor=white)
+![tensorflow](https://img.shields.io/badge/-tensorflow-gray?style=for-the-badge&logo=tensorflow&logoColor=white)
+![keras](https://img.shields.io/badge/-keras-gray?style=for-the-badge&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-matplotlib-gray?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### 📊 My statistic
 <p align="center">
