@@ -56,12 +56,6 @@
 ![bash](https://img.shields.io/badge/-kibana-black?style=for-the-badge&logo=kibana&logoColor=white)
 ![bash](https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
 
-#### 🤖 Machine learning
-![numpy](https://img.shields.io/badge/-numpy-gray?style=for-the-badge&logo=numpy&logoColor=white)
-![tensorflow](https://img.shields.io/badge/-tensorflow-gray?style=for-the-badge&logo=tensorflow&logoColor=white)
-![keras](https://img.shields.io/badge/-keras-gray?style=for-the-badge&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-matplotlib-gray?style=for-the-badge&logo=matplotlib&logoColor=white)
-
 ### 📊 My statistic
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirillMikhailov442&layout=compact&theme=github_dark&hide_border=true" />
