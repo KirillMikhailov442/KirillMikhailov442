@@ -27,6 +27,7 @@
 ![jest](https://img.shields.io/badge/-jest-white?style=for-the-badge&logo=jest&logoColor=black)
 ![vite](https://img.shields.io/badge/-vite-white?style=for-the-badge&logo=vite&logoColor=black)
 ![three](https://img.shields.io/badge/-three.js-white?style=for-the-badge&logo=threedotjs&logoColor=black)
+![tauri](https://img.shields.io/badge/-tauri-white?style=for-the-badge&logo=tauri&logoColor=black)
 ![figma](https://img.shields.io/badge/-figma-white?style=for-the-badge&logo=figma&logoColor=black)
 
 #### 💻 Backend
