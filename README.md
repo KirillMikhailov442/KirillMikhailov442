@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Perm
 * ✉️  You can contact me at [akcjdjs123456789@gmail.com](mailto:akcjdjs123456789@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning Vue.js
 * 🤝  I'm open to collaborating on with a team of enthusiasts
 
 ### 🛠️ Languages and Tools
