@@ -9,7 +9,7 @@
 
 ### 🛠️ Languages and Tools
 
-#### ⚡ Frontend
+#### 💻 Frontend
 ![react](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react&logoColor=black)
 ![react-native](https://img.shields.io/badge/-reactnative-white?style=for-the-badge&logo=react&logoColor=black)
 ![js](https://img.shields.io/badge/-javascrpit-white?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,7 +30,7 @@
 ![tauri](https://img.shields.io/badge/-tauri-white?style=for-the-badge&logo=tauri&logoColor=black)
 ![figma](https://img.shields.io/badge/-figma-white?style=for-the-badge&logo=figma&logoColor=black)
 
-#### 💻 Backend
+#### 🌐 Backend
 ![nodejs](https://img.shields.io/badge/-nodejs-black?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![bash](https://img.shields.io/badge/-express-black?style=for-the-badge&logo=express&logoColor=white)
 ![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=white)
