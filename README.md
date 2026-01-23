@@ -57,3 +57,6 @@
 ![logstash](https://img.shields.io/badge/-logstash-black?style=for-the-badge&logo=logstash&logoColor=white)
 ![kibana](https://img.shields.io/badge/-kibana-black?style=for-the-badge&logo=kibana&logoColor=white)
 ![bash](https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🤖 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillMikhailov442&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
