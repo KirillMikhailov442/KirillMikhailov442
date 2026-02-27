@@ -16,8 +16,6 @@
 ![ts](https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=typescript&logoColor=black)
 ![nextjs](https://img.shields.io/badge/-next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
 ![html](https://img.shields.io/badge/-html-white?style=for-the-badge&logo=html5&logoColor=black)
-![htmx](https://img.shields.io/badge/-htmx-white?style=for-the-badge&logo=htmx&logoColor=black)
-![ejs](https://img.shields.io/badge/-ejs-white?style=for-the-badge&logo=ejs&logoColor=black)
 ![css](https://img.shields.io/badge/-css-white?style=for-the-badge&logo=css3&logoColor=black)
 ![sass](https://img.shields.io/badge/-scss-white?style=for-the-badge&logo=sass&logoColor=black)
 ![tailwind](https://img.shields.io/badge/-tailwindcss-white?style=for-the-badge&logo=tailwindcss&logoColor=black)
@@ -57,6 +55,3 @@
 ![logstash](https://img.shields.io/badge/-logstash-black?style=for-the-badge&logo=logstash&logoColor=white)
 ![kibana](https://img.shields.io/badge/-kibana-black?style=for-the-badge&logo=kibana&logoColor=white)
 ![bash](https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### 🤖 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillMikhailov442&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
