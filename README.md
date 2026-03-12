@@ -4,7 +4,6 @@
 
 * 🌍  I'm based in Perm
 * ✉️  You can contact me at [akcjdjs123456789@gmail.com](mailto:akcjdjs123456789@gmail.com)
-* 🧠  I'm learning Angular (Soon...)
 * 🤝  I'm open to collaborating on with a team of enthusiasts
 
 ### 🛠️ Languages and Tools
@@ -12,6 +11,7 @@
 #### 💻 Frontend
 ![react](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react&logoColor=black)
 ![react-native](https://img.shields.io/badge/-reactnative-white?style=for-the-badge&logo=react&logoColor=black)
+![angular](https://img.shields.io/badge/-angular-white?style=for-the-badge&logo=angular&logoColor=black)
 ![js](https://img.shields.io/badge/-javascrpit-white?style=for-the-badge&logo=javascript&logoColor=black)
 ![ts](https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=typescript&logoColor=black)
 ![nextjs](https://img.shields.io/badge/-next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
@@ -22,6 +22,7 @@
 ![pnpm](https://img.shields.io/badge/-pnpm-white?style=for-the-badge&logo=pnpm&logoColor=black)
 ![redux](https://img.shields.io/badge/-redux-white?style=for-the-badge&logo=redux&logoColor=black)
 ![zustan](https://img.shields.io/badge/-zustand-white?style=for-the-badge&logo=zustand&logoColor=black)
+![rxjs](https://img.shields.io/badge/-rxjs-white?style=for-the-badge&logo=rxjs&logoColor=black)
 ![jest](https://img.shields.io/badge/-jest-white?style=for-the-badge&logo=jest&logoColor=black)
 ![vite](https://img.shields.io/badge/-vite-white?style=for-the-badge&logo=vite&logoColor=black)
 ![three](https://img.shields.io/badge/-three.js-white?style=for-the-badge&logo=threedotjs&logoColor=black)
