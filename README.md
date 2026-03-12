@@ -1,58 +1,72 @@
-## 👋 Hello everyone, my name is Kirill, I work as a frontend developer
+## 👋 Hi, I'm Kirill — Frontend Developer
 
-#### ❤️ I love creating projects and learning new things
+📍 Perm | ✉️ [akcjdjs123456789@gmail.com](mailto:akcjdjs123456789@gmail.com)
 
-* 🌍  I'm based in Perm
-* ✉️  You can contact me at [akcjdjs123456789@gmail.com](mailto:akcjdjs123456789@gmail.com)
-* 🤝  I'm open to collaborating on with a team of enthusiasts
+### 🛠️ Tech Stack
 
-### 🛠️ Languages and Tools
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+      <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="Pnpm" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+      <br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      <br>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Strapi-2F2E8C?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
+      <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" alt="Contentful" />
+      <br>
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <br>
+      <img src="https://img.shields.io/badge/Grafana-F24E1E?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+      <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+      <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana" />
+      <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" alt="Logstash" />
+      <br>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+    </td>
+   <tr>
+    <td><b>ML / AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/...soon-FF6B6B?style=for-the-badge&logo=brain&logoColor=white" alt="Soon" />
+    </td>
+  </tr>
+  </tr>
+</table>
 
-#### 💻 Frontend
-![react](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react&logoColor=black)
-![react-native](https://img.shields.io/badge/-reactnative-white?style=for-the-badge&logo=react&logoColor=black)
-![angular](https://img.shields.io/badge/-angular-white?style=for-the-badge&logo=angular&logoColor=black)
-![js](https://img.shields.io/badge/-javascrpit-white?style=for-the-badge&logo=javascript&logoColor=black)
-![ts](https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=typescript&logoColor=black)
-![nextjs](https://img.shields.io/badge/-next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black)
-![html](https://img.shields.io/badge/-html-white?style=for-the-badge&logo=html5&logoColor=black)
-![css](https://img.shields.io/badge/-css-white?style=for-the-badge&logo=css3&logoColor=black)
-![sass](https://img.shields.io/badge/-scss-white?style=for-the-badge&logo=sass&logoColor=black)
-![tailwind](https://img.shields.io/badge/-tailwindcss-white?style=for-the-badge&logo=tailwindcss&logoColor=black)
-![pnpm](https://img.shields.io/badge/-pnpm-white?style=for-the-badge&logo=pnpm&logoColor=black)
-![redux](https://img.shields.io/badge/-redux-white?style=for-the-badge&logo=redux&logoColor=black)
-![zustan](https://img.shields.io/badge/-zustand-white?style=for-the-badge&logo=zustand&logoColor=black)
-![rxjs](https://img.shields.io/badge/-rxjs-white?style=for-the-badge&logo=rxjs&logoColor=black)
-![jest](https://img.shields.io/badge/-jest-white?style=for-the-badge&logo=jest&logoColor=black)
-![vite](https://img.shields.io/badge/-vite-white?style=for-the-badge&logo=vite&logoColor=black)
-![three](https://img.shields.io/badge/-three.js-white?style=for-the-badge&logo=threedotjs&logoColor=black)
-![tauri](https://img.shields.io/badge/-tauri-white?style=for-the-badge&logo=tauri&logoColor=black)
-![figma](https://img.shields.io/badge/-figma-white?style=for-the-badge&logo=figma&logoColor=black)
-
-#### 🌐 Backend
-![nodejs](https://img.shields.io/badge/-nodejs-black?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![bash](https://img.shields.io/badge/-express-black?style=for-the-badge&logo=express&logoColor=white)
-![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=white)
-![django](https://img.shields.io/badge/-django-black?style=for-the-badge&logo=django&logoColor=white)
-![java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=white)
-![spring](https://img.shields.io/badge/-spring-black?style=for-the-badge&logo=spring&logoColor=white)
-![mongodb](https://img.shields.io/badge/-mongodb-black?style=for-the-badge&logo=mongodb&logoColor=white)
-![redis](https://img.shields.io/badge/-redis-black?style=for-the-badge&logo=redis&logoColor=white)
-![postgresql](https://img.shields.io/badge/-postgresql-black?style=for-the-badge&logo=postgresql&logoColor=white)
-![mysql](https://img.shields.io/badge/-mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
-![sqlite](https://img.shields.io/badge/-sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white)
-![firebase](https://img.shields.io/badge/-firebase-black?style=for-the-badge&logo=firebase&logoColor=white)
-![supabase](https://img.shields.io/badge/-supabase-black?style=for-the-badge&logo=firebase&logoColor=white)
-![docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=white)
-![linux](https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![strapi](https://img.shields.io/badge/-strapi-black?style=for-the-badge&logo=strapi&logoColor=white)
-![contextful](https://img.shields.io/badge/-contentful-black?style=for-the-badge&logo=contentful&logoColor=white)
-![nginx](https://img.shields.io/badge/-nginx-black?style=for-the-badge&logo=nginx&logoColor=white)
-![apache](https://img.shields.io/badge/-apache-black?style=for-the-badge&logo=apache&logoColor=white)
-![kafka](https://img.shields.io/badge/-kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white)
-![rabbitmq](https://img.shields.io/badge/-rabbitmq-black?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![elasticsearch](https://img.shields.io/badge/-elasticsearch-black?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![grafana](https://img.shields.io/badge/-grafana-black?style=for-the-badge&logo=grafana&logoColor=white)
-![logstash](https://img.shields.io/badge/-logstash-black?style=for-the-badge&logo=logstash&logoColor=white)
-![kibana](https://img.shields.io/badge/-kibana-black?style=for-the-badge&logo=kibana&logoColor=white)
-![bash](https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
+> 💡 Open to collaboration and interesting projects. Let's build something great!
