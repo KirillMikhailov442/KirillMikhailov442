@@ -70,9 +70,3 @@
 </table>
 
 > 💡 Open to collaboration and interesting projects. Let's build something great!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=KirillMikhailov442&layout=compact&theme=dracula" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=KirillMikhailov442&layout=compact&theme=default" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=KirillMikhailov442&locale=ru&layout=compact" />
-</picture>
