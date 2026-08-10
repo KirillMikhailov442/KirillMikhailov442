@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Kirill — Frontend Developer
+## 👋 Hi, I'm Kirill — JS Developer
 
 📍 Perm | ✉️ [akcjdjs123456789@gmail.com](mailto:akcjdjs123456789@gmail.com)
 
