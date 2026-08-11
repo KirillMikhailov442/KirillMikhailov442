@@ -1,43 +1,44 @@
-## 👋 Hi, I'm Kirill — JS Developer
+<h1 align="center">Kirill Mikhailov</h1>
 
-📍 Perm | ✉️ [akcjdjs123456789@gmail.com](mailto:akcjdjs123456789@gmail.com)
+<p align="center">
+  <strong>Frontend Developer</strong>
+</p>
 
-### 🛠️ Tech Stack
+### About Me
 
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastAPI&logoColor=white" alt="fastAPI" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-      <br>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-    </td>
-  </tr>
-    <td><b>ML / AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/...soon-FF6B6B?style=for-the-badge&logo=brain&logoColor=white" alt="Soon" />
-    </td>
-  </tr>
-  </tr>
-</table>
+Computer Science student at **Perm State University (IKNT)**. Completed a program at **SITU** and participated in a **School 21 hackathon**.
 
-> 💡 Open to collaboration and interesting projects. Let's build something great!
+Currently working as a Frontend Developer at **T-Bank** and **Script Agency**. I enjoy designing thoughtful architecture and creating clean, polished user interfaces.
+
+### Experience
+
+**Frontend Developer — [T-Bank](https://tbank.ru)**
+
+Worked on the interactive whiteboard engine for **[Unidraw](https://unidraw.io)**, improving its functionality and user interface. Also worked with an internal LLM integration.
+
+**Frontend Developer — [Script Agency](https://thescript.agency)**
+
+Developed web services including resume builders and CRM systems. Introduced a modern frontend stack to the team, conducted code reviews for junior developers, and led a development group.
+
+### Tech Stack
+
+#### Frontend
+
+<p> <img src="https://img.shields.io/badge/React-1F2328?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/React%20Native-1F2328?style=for-the-badge&logo=react&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/Next.js-1F2328?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Three.js-1F2328?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" /> <img src="https://img.shields.io/badge/Tauri-1F2328?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-1F2328?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Sass-1F2328?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /> <img src="https://img.shields.io/badge/Figma-1F2328?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/WebRTC-1F2328?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" /> </p>
+
+#### Backend & Data
+
+<p> <img src="https://img.shields.io/badge/Express-1F2328?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/FastAPI-1F2328?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Spring-1F2328?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /> <img src="https://img.shields.io/badge/Socket.IO-1F2328?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" /> <img src="https://img.shields.io/badge/Linux-1F2328?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/PostgreSQL-1F2328?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-1F2328?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-1F2328?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-1F2328?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> </p>
+
+
+#### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1F2328?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-1F2328?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+### Contact
+
+[Telegram](https://t.me/cripperMicher) · [LinkedIn](https://www.linkedin.com/in/kirill-mikhailov-66423a35a/) · [Email](mailto:akcjdjs123456789@gmail.com)
+
