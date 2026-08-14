@@ -58,11 +58,6 @@ Developed web services including resume builders and CRM systems. Introduced a m
   <img src="https://img.shields.io/badge/Java-1F2328?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-### GitHub Statistics
-
-![gh-stats](https://raw.githubusercontent.com/KirillMikhailov442/github-stats/master/generated/overview.svg)
-![gh-stats](https://raw.githubusercontent.com/KirillMikhailov442/github-stats/master/generated/languages.svg)
-
 ### Contact
 
 <a target="_blank" rel="noopener noreferrer" href="https://t.me/cripperMicher">Telegram</a> ·
