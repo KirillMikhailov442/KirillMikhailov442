@@ -8,7 +8,7 @@
 
 Computer Science student at **Perm State University (IKNT)**. Completed a program at **SITU** and participated in a **School 21 hackathon**.
 
-Currently working as a Frontend Developer at **T-Bank** and **Script Agency**. I enjoy designing thoughtful architecture and creating clean, polished user interfaces.
+Currently working as a Frontend Developer at **Script Agency**. I enjoy designing thoughtful architecture and creating clean, polished user interfaces.
 
 ### Experience
 
