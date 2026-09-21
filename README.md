@@ -41,6 +41,7 @@ Developed web services including resume builders and CRM systems. Introduced a m
 
 <p>
   <img src="https://img.shields.io/badge/Express-1F2328?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Nest-1F2328?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
   <img src="https://img.shields.io/badge/FastAPI-1F2328?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Spring-1F2328?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Socket.IO-1F2328?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
