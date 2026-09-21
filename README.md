@@ -28,6 +28,7 @@ Developed web services including resume builders and CRM systems. Introduced a m
   <img src="https://img.shields.io/badge/React-1F2328?style=for-the-badge&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/React%20Native-1F2328?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
   <img src="https://img.shields.io/badge/Next.js-1F2328?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Gatsby-1F2328?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby" />
   <img src="https://img.shields.io/badge/TypeScript-1F2328?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Three.js-1F2328?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/Tauri-1F2328?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
