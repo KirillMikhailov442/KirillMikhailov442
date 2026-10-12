@@ -64,4 +64,5 @@ Developed web services including resume builders and CRM systems. Introduced a m
 
 <a target="_blank" rel="noopener noreferrer" href="https://t.me/cripperMicher">Telegram</a> ·
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/kirill-mikhailov-66423a35a/">LinkedIn</a> ·
-<a target="_blank" rel="noopener noreferrer" href="mailto:mikhailovk1@icloud.com">Email</a>
+<a target="_blank" rel="noopener noreferrer" href="mailto:mikhailovk1@icloud.com">Email</a> ·
+<a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1B8KnNcvbhfsU3mnZ4wZ737NZnP2sxMez/view?usp=sharing">My CV</a>
